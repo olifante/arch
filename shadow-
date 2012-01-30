@@ -1,0 +1,8 @@
+root:$6$VK428qQ9$FBpzRRD85Cysoz9xtIM2q0cLmp0w3JhbzUKQfT4TAJQAhOeahloTaBFl5/odoOw6n0m2Vx3ED1x4ELcI9XtKV/:15366::::::
+bin:x:14871::::::
+daemon:x:14871::::::
+mail:x:14871::::::
+ftp:x:14871::::::
+http:x:14871::::::
+nobody:x:14871::::::
+dbus:!:15366:0:99999:7:::
