@@ -30,3 +30,4 @@ power:x:98:olifante
 nobody:x:99:
 users:x:100:
 dbus:x:81:
+vboxsf:x:1000:root,olifante
